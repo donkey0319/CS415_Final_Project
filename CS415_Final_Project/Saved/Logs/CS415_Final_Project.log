@@ -6753,3 +6753,16 @@ An asset already exists at the import location: /Game/Assets/Characters/Characte
 [2023.12.07-03.48.19:261][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2023.12.07-03.48.19:265][530]AssetCheck: New page: Asset Save: Douge
 [2023.12.07-03.48.19:265][530]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Assets/Characters/Character_Rosales_Anim/Douge.Douge
+[2023.12.07-03.48.45:311][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.12.07-03.48.45:313][663]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/LV_Character_Select' took 0.018
+[2023.12.07-03.48.45:314][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Character_Dreyar_Anim/Combo_Punch] ([1] browsable assets)...
+[2023.12.07-03.48.45:399][663]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Characters/Character_Dreyar_Anim/Combo_Punch.Combo_Punch]
+[2023.12.07-03.48.45:399][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Character_Dreyar_Anim/Combo_Punch]
+[2023.12.07-03.48.45:457][663]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/Character_Dreyar_Anim/Combo_Punch_Auto5
+[2023.12.07-03.48.45:457][663]LogSavePackage: Moving 'E:/UnrealFiles/CS415_Final_Project/CS415_Final_Project/CS415_Final_Project/Saved/Combo_Punch_Auto5393CCE7C498F588A8AC1A7995A297355.tmp' to 'E:/UnrealFiles/CS415_Final_Project/CS415_Final_Project/CS415_Final_Project/Saved/Autosaves/Game/Assets/Characters/Character_Dreyar_Anim/Combo_Punch_Auto5.uasset'
+[2023.12.07-03.48.45:459][663]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Characters/Character_Dreyar_Anim/Dodging_Right] ([1] browsable assets)...
+[2023.12.07-03.48.45:482][663]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Assets/Characters/Character_Dreyar_Anim/Dodging_Right.Dodging_Right]
+[2023.12.07-03.48.45:482][663]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Character_Dreyar_Anim/Dodging_Right]
+[2023.12.07-03.48.45:525][663]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Characters/Character_Dreyar_Anim/Dodging_Right_Auto5
+[2023.12.07-03.48.45:525][663]LogSavePackage: Moving 'E:/UnrealFiles/CS415_Final_Project/CS415_Final_Project/CS415_Final_Project/Saved/Dodging_Right_Auto5EA86C2A144CE8EBDE458A682BD23F416.tmp' to 'E:/UnrealFiles/CS415_Final_Project/CS415_Final_Project/CS415_Final_Project/Saved/Autosaves/Game/Assets/Characters/Character_Dreyar_Anim/Dodging_Right_Auto5.uasset'
+[2023.12.07-03.48.45:527][663]LogFileHelpers: Auto-saving content packages took 0.214
